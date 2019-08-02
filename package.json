@@ -17,7 +17,6 @@
   },
   "homepage": "https://github.com/Cimpress-MCP/postal-codes-js#readme",
   "dependencies": {
-    "detect-node": "^2.0.3",
     "path": "^0.12.7"
   },
   "devDependencies": {
